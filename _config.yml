@@ -33,7 +33,7 @@ resume-url: https://drive.google.com/file/d/1PRKJA4NPMeepeACr4C6OFMduSyYXHkpq/vi
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: han-patrick    # https://www.linkedin.com/in/{your url slug} 
   github: phan603  # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  # stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
